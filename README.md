@@ -1,7 +1,7 @@
 # :japanese_castle: Hi there, I'm Pavel :japanese_castle:
 
 <p align="left"> <img src=https://komarev.com/ghpvc/?username=Luvrok alt=Luvrok/> 
-<p align="left"> <a href="https://twitter.com/lluvrok" target="blank"><img src="https://img.shields.io/twitter/follow/:luvrok?label=Follow" alt="Luvrok" /></a> </p>
+<p align="left"> <a href="https://twitter.com/lluvrok" target="blank"><img src="https://img.shields.io/twitter/follow/:lluvrok?label=Follow" alt="Luvrok" /></a> </p>
 
 ### Connect with me:
 
