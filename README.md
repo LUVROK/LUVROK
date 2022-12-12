@@ -9,7 +9,7 @@
 [![website](./img/globe-dark.svg)](https://goldenkamuy.kz#gh-dark-mode-only)
 &nbsp;&nbsp;
 [![website](./img/telegram-logo-5941.svg)](https://t.me/luvrok#gh-light-mode-only)
-[![website](./img/telegram-logo-5941.svg)](https://t.me/luvrok#gh-dark-mode-only)
+[![website](./img/telegram-logo-59412.svg)](https://t.me/luvrok#gh-dark-mode-only)
 &nbsp;&nbsp;
 [![website](./img/twitter-light.svg)](https://twitter.com/codestackr#gh-light-mode-only)
 [![website](./img/twitter-dark.svg)](https://twitter.com/codestackr#gh-dark-mode-only)
