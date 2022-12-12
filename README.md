@@ -1,4 +1,4 @@
-# Hi there, I'm Pavel - [twitter] 👋
+# Hi there, I'm Pavel - [![website](./img/twitter-light.svg)](https://twitter.com/codestackr#gh-light-mode-only) [![website](./img/twitter-dark.svg)](https://twitter.com/codestackr#gh-dark-mode-only) 👋
 
 <p align="left"> <img src=https://komarev.com/ghpvc/?username=Luvrok alt=Luvrok/> </p>
 <p align="left"> <a href="https://twitter.com/lluvrok" target="blank"><img src="https://img.shields.io/twitter/follow/lluvrok?logo=twitter&style=for-the-badge" alt="Luvrok" /></a> </p>
@@ -21,7 +21,7 @@
 [![website](./img/instagram-dark.svg)](https://instagram.com/codeSTACKr#gh-dark-mode-only)
 
 <details>
-  <summary>:zap: GitHub Stats</summary>
+  <summary>:zap: My gitHub stats</summary>
 
   <img align="left" alt="Luvrok's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=luvrok&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" />
 
