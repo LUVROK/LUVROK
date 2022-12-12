@@ -5,17 +5,17 @@
 
 ### Connect with me:
 
-[![website](./img/globe-light.svg)](https://goldenkamuy.kz#gh-light-mode-only){:target="_blank" rel="noopener"}
-[![website](./img/globe-dark.svg)](https://goldenkamuy.kz#gh-dark-mode-only){:target="_blank" rel="noopener"}
+[![website]{:target="_blank" rel="noopener"}(./img/globe-light.svg)](https://goldenkamuy.kz#gh-light-mode-only)
+[![website]{:target="_blank" rel="noopener"}(./img/globe-dark.svg)](https://goldenkamuy.kz#gh-dark-mode-only)
 &nbsp;&nbsp;
-[![website](./img/twitter-light.svg)](https://twitter.com/codestackr#gh-light-mode-only){:target="_blank" rel="noopener"}
-[![website](./img/twitter-dark.svg)](https://twitter.com/codestackr#gh-dark-mode-only){:target="_blank" rel="noopener"}
+[![website](./img/twitter-light.svg)](https://twitter.com/codestackr#gh-light-mode-only)
+[![website](./img/twitter-dark.svg)](https://twitter.com/codestackr#gh-dark-mode-only)
 &nbsp;&nbsp;
-[![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/luvrok/#gh-light-mode-only){:target="_blank" rel="noopener"}
-[![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/luvrok#gh-dark-mode-only){:target="_blank" rel="noopener"}
+[![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/luvrok/#gh-light-mode-only)
+[![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/luvrok#gh-dark-mode-only)
 &nbsp;&nbsp;
-[![website](./img/instagram-light.svg)](https://www.instagram.com/madokaokamoto/#gh-light-mode-only){:target="_blank" rel="noopener"}
-[![website](./img/instagram-dark.svg)](https://www.instagram.com/madokaokamoto/#gh-dark-mode-only){:target="_blank" rel="noopener"}
+[![website](./img/instagram-light.svg)](https://www.instagram.com/madokaokamoto/#gh-light-mode-only)
+[![website](./img/instagram-dark.svg)](https://www.instagram.com/madokaokamoto/#gh-dark-mode-only)
 
 <details>
   <summary>:zap: My gitHub stats</summary>
