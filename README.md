@@ -1,7 +1,8 @@
-# :japanese_castle: Hi there, I'm Pavel - [![website](./img/twitter-light.svg)](https://twitter.com/codestackr#gh-light-mode-only) [![website](./img/twitter-dark.svg)](https://twitter.com/codestackr#gh-dark-mode-only) :japanese_castle:
+# :japanese_castle: Hi there, I'm Pavel :japanese_castle:
 
 <p align="left"> <img src=https://komarev.com/ghpvc/?username=Luvrok alt=Luvrok/> 
-<p align="left"> <a href="https://twitter.com/lluvrok" target="blank"><img src="https://img.shields.io/twitter/follow/lluvrok?logo=twitter&style=for-the-badge" alt="Luvrok" /></a> </p>
+  
+![Twitter Follow](https://img.shields.io/twitter/follow/lluvrok?style=social)
 
 ### Connect with me:
 
