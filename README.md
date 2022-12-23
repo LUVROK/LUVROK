@@ -20,7 +20,7 @@
 [![website](./img/instagram-light.svg)](https://www.instagram.com/madokaokamoto/#gh-light-mode-only)
 [![website](./img/instagram-dark.svg)](https://www.instagram.com/madokaokamoto/#gh-dark-mode-only)
 
-<h3 align="center"> My gitHub stats </h3>
+<h3 align="center"> My github stats </h3>
 
 <p align='center'><a href='https://github.com/
 LUVROK'><img src="https://github-readme-stats.vercel.app/api?username=LUVROK&amp;layout=compact&amp;theme=tokyonight"></a></p>
