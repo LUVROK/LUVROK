@@ -1,4 +1,4 @@
-<h1 style="text-align: center">:japanese_castle: Hi there, I'm Pavel :japanese_castle:</h1>
+<h1 align="center">:japanese_castle: Hi there, I'm Pavel :japanese_castle:</h1>
 
 ![](https://komarev.com/ghpvc/?username=luvrok&label=PROFILE+VIEWS)
 ![Twitter Follow](https://img.shields.io/twitter/follow/lluvrok?style=social)
