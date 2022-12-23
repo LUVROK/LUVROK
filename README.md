@@ -1,7 +1,6 @@
-# :japanese_castle: Hi there, I'm Pavel :japanese_castle:
+<h1 style="text-align: center">:japanese_castle: Hi there, I'm Pavel :japanese_castle:</h1>
 
 ![](https://komarev.com/ghpvc/?username=luvrok&label=PROFILE+VIEWS)
-
 ![Twitter Follow](https://img.shields.io/twitter/follow/lluvrok?style=social)
 
 ### Connect with me:
@@ -21,7 +20,7 @@
 [![website](./img/instagram-light.svg)](https://www.instagram.com/madokaokamoto/#gh-light-mode-only)
 [![website](./img/instagram-dark.svg)](https://www.instagram.com/madokaokamoto/#gh-dark-mode-only)
 
-### My gitHub stats:
+<h3 align="center"> My gitHub stats </h3>
 
 <p align='center'><a href='https://github.com/
 LUVROK'><img src="https://github-readme-stats.vercel.app/api?username=LUVROK&amp;layout=compact&amp;theme=tokyonight"></a></p>
