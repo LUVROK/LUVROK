@@ -22,7 +22,7 @@
 
 ### links to my more important projects
 
-
+`https://geotec.kz/`
 
 <h3 align="center"> My github stats </h3>
 
