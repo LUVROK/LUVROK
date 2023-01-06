@@ -22,7 +22,7 @@
 
 ### links to my more important projects
 
-[geotec](https://geotec.kz/)  
+[geotec]([https://geotec.kz/](https://luvrok.github.io/GEOTEC/])  
 [JAPAN GO MOBILE APP](https://github.com/LUVROK/JAPAN-GO-APP)  
 [capybara chill club](https://luvrok.github.io/capybara-chill-club-landing/)  
 [lootbeers](https://lootbeers.com/) OR THIS LINK [lootbeers](https://luvrok.github.io/lootbeers_typescript/)  
