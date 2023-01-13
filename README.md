@@ -33,8 +33,8 @@
 <h3 align="center"> My github stats </h3>
 
 <p align='center'><a href='https://github.com/
-LUVROK'><img src="https://github-readme-stats.vercel.app/api?user=LUVROK&amp;layout=compact&amp;theme=tokyonight"></a></p>
+LUVROK'><img src="https://github-readme-stats.vercel.app/api?username=LUVROK&amp;layout=compact&amp;theme=tokyonight"></a></p>
 <p align='center'><a href='https://github.com/
 LUVROK'><img src='https://github-readme-streak-stats.herokuapp.com/?user=LUVROK&theme=tokyonight'></a></p>
 <p align='center'><a href='https://github.com/
-LUVROK'><img src="https://github-readme-stats.vercel.app/api/top-langs/?user=LUVROK&amp;layout=compact&amp;theme=tokyonight" alt="Top Langs"></a></p>
+LUVROK'><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LUVROK&amp;layout=compact&amp;theme=tokyonight" alt="Top Langs"></a></p>
