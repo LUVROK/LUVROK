@@ -21,16 +21,7 @@
 
 ### links to my more important projects
 
-```html
-<h2>Example of code</h2>
-
-<pre>
-    <div style='width:100%; height:200px; background-color: black'></div>
-
-</pre>
-```
-
-[GEOTEC](https://luvrok.github.io/GEOTEC/)
+[GEOTEC](https://luvrok.github.io/GEOTEC/)  
 [lootbeers](https://lootbeers.com/) OR THIS LINK [lootbeers](https://luvrok.github.io/lootbeers_typescript/)  
 [my portfolio site](luvrok.github.io/golden_kamuy_kz/)  
 [capybara chill club](https://luvrok.github.io/capybara-chill-club-landing/)  
