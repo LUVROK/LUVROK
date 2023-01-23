@@ -21,6 +21,8 @@
 
 ### links to my more important projects
 
+<div style='width:100%; height:200px; background-color: black'></div>
+
 [GEOTEC](https://luvrok.github.io/GEOTEC/)
 [lootbeers](https://lootbeers.com/) OR THIS LINK [lootbeers](https://luvrok.github.io/lootbeers_typescript/)  
 [my portfolio site](luvrok.github.io/golden_kamuy_kz/)  
