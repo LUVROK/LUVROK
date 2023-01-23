@@ -21,13 +21,15 @@
 
 ### links to my more important projects
 
-[geotec](https://luvrok.github.io/GEOTEC/)  
-[JAPAN GO MOBILE APP](https://github.com/LUVROK/JAPAN-GO-APP)  
-[capybara chill club](https://luvrok.github.io/capybara-chill-club-landing/)  
+[GEOTEC](https://luvrok.github.io/GEOTEC/)
 [lootbeers](https://lootbeers.com/) OR THIS LINK [lootbeers](https://luvrok.github.io/lootbeers_typescript/)  
-[myshows site parser](https://github.com/LUVROK/myshows_parser)  
 [my portfolio site](luvrok.github.io/golden_kamuy_kz/)  
-[Wibe Stunning Fashion Studio](https://luvrok.github.io/Wibe-Stunning-Fashion-Studio/)  
+[capybara chill club](https://luvrok.github.io/capybara-chill-club-landing/)  
+
+[JAPAN GO MOBILE APP](https://github.com/LUVROK/JAPAN-GO-APP)  
+[myshows site parser](https://github.com/LUVROK/myshows_parser)  
+[Wibe Stunning Fashion Studio](https://luvrok.github.io/Wibe-Stunning-Fashion-Studio/) 
+[Open AI generation image app](https://luvrok.github.io/OpenAI_generation_image_app/)
 
 <h3 align="center"> My github stats </h3>
 
