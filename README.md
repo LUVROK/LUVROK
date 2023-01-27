@@ -28,7 +28,7 @@
 [mongo landing](https://luvrok.github.io/mongo-landing/)  
 [evolved](luvrok.github.io/evolved/)  
 [twitter-auth](https://github.com/LUVROK/twitter-auth)  
-[falling](luvrok.github.io/falling/)  
+[falling](https://github.com/LUVROK/falling/)  
 [quackducks landing](https://github.com/LUVROK/quackducks-landing)  
 [my figma design](https://github.com/LUVROK/my-figma-design)  
 [aptos-nft](https://luvrok.github.io/aptos-nft-project-site/)  
