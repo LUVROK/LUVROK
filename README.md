@@ -23,10 +23,10 @@
 
 [GEOTEC](https://luvrok.github.io/GEOTEC/)  
 [lootbeers](https://lootbeers.com/) OR THIS LINK [lootbeers](https://luvrok.github.io/lootbeers_typescript/)  
-[my portfolio site](luvrok.github.io/golden_kamuy_kz/)  
+[my portfolio site](https://github.com/LUVROK/golden_kamuy_kz/)  
 [capybara chill club](https://luvrok.github.io/capybara-chill-club-landing/)  
 [mongo landing](https://luvrok.github.io/mongo-landing/)  
-[evolved](luvrok.github.io/evolved/)  
+[evolved](https://github.com/LUVROK/evolved/)  
 [twitter-auth](https://github.com/LUVROK/twitter-auth)  
 [falling](https://github.com/LUVROK/falling/)  
 [quackducks landing](https://github.com/LUVROK/quackducks-landing)  
