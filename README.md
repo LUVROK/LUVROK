@@ -22,7 +22,7 @@
 ### links to my more important projects
 
 [GEOTEC](https://luvrok.github.io/GEOTEC/)  
-[Zephyr](https://github.com/LUVROK/Zephyr)
+[Zephyr](https://github.com/LUVROK/Zephyr)  
 [lootbeers](https://lootbeers.com/) OR THIS LINK [lootbeers](https://luvrok.github.io/lootbeers_typescript/)  
 [my portfolio site](https://github.com/LUVROK/golden_kamuy_kz/)  
 [capybara chill club](https://luvrok.github.io/capybara-chill-club-landing/)  
