@@ -1,4 +1,4 @@
-<h1 align="center">:japanese_castle: Hi there, I'm Pavel :japanese_castle:</h1>
+<h3 align="center">Hi there</h3>
 
 ![](https://komarev.com/ghpvc/?username=luvrok&label=PROFILE+VIEWS)
 
