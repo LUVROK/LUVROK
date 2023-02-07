@@ -22,7 +22,7 @@
 ### links to my more important projects
 
 [https://geotec.kz/](https://geotec.kz/)  
-[[https://zephyr.com](https://zephyr-git-dev-orniki.vercel.app/)  
+[https://zephyr.com](https://zephyr-git-dev-orniki.vercel.app/)  
 [https://luvrok.github.io/lootbeers_typescript/](https://luvrok.github.io/lootbeers_typescript/)  
 [https://github.com/LUVROK/golden_kamuy_kz/](https://github.com/LUVROK/golden_kamuy_kz/)  
 
