@@ -19,7 +19,6 @@
 [![website](./img/instagram-light.svg)](https://www.instagram.com/madokaokamoto/#gh-light-mode-only)
 [![website](./img/instagram-dark.svg)](https://www.instagram.com/madokaokamoto/#gh-dark-mode-only)
 
-### links to my more important projects
 
 [https://geotec.kz/](https://geotec.kz/)  
 [https://zephyr.com](https://zephyr-git-dev-orniki.vercel.app/)  
