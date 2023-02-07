@@ -21,25 +21,10 @@
 
 ### links to my more important projects
 
-[GEOTEC](https://luvrok.github.io/GEOTEC/)  
-[Zephyr](https://github.com/LUVROK/Zephyr)  
-[lootbeers](https://lootbeers.com/) OR THIS LINK [lootbeers](https://luvrok.github.io/lootbeers_typescript/)  
-[my portfolio site](https://github.com/LUVROK/golden_kamuy_kz/)  
-[capybara chill club](https://luvrok.github.io/capybara-chill-club-landing/)  
-[mongo landing](https://luvrok.github.io/mongo-landing/)  
-[evolved](https://github.com/LUVROK/evolved/)  
-[twitter-auth](https://github.com/LUVROK/twitter-auth)  
-[falling](https://github.com/LUVROK/falling/)  
-[quackducks landing](https://github.com/LUVROK/quackducks-landing)  
-[my figma design](https://github.com/LUVROK/my-figma-design)  
-[aptos-nft](https://luvrok.github.io/aptos-nft-project-site/)  
-
-[JAPAN GO MOBILE APP](https://github.com/LUVROK/JAPAN-GO-APP)  
-[myshows site parser](https://github.com/LUVROK/myshows_parser)  
-[Wibe Stunning Fashion Studio](https://luvrok.github.io/Wibe-Stunning-Fashion-Studio/)  
-[Open AI generation image app](https://luvrok.github.io/OpenAI_generation_image_app/)  
-[parallax fairy forest](luvrok.github.io/parallax-fairy-forest/)  
-[Timeru](https://luvrok.github.io/Timeru/)
+[https://geotec.kz/](https://geotec.kz/)  
+[[https://zephyr.com](https://zephyr-git-dev-orniki.vercel.app/)  
+[https://luvrok.github.io/lootbeers_typescript/](https://luvrok.github.io/lootbeers_typescript/)  
+[https://github.com/LUVROK/golden_kamuy_kz/](https://github.com/LUVROK/golden_kamuy_kz/)  
 
 <h3 align="center"> My github stats </h3>
 
