@@ -33,6 +33,7 @@
 [Parallax Fairy Forest](https://luvrok.github.io/parallax-fairy-forest/)  
 [React Native Learn Language App](https://github.com/LUVROK/JAPAN-GO-APP)  
 [Timeru](https://luvrok.github.io/Timeru/)  
+These are not all my projects, but the most important ones  
 
 <h3 align="center"> My github stats </h3>
 
