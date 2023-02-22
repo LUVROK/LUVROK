@@ -20,10 +20,19 @@
 [![website](./img/instagram-dark.svg)](https://www.instagram.com/madokaokamoto/#gh-dark-mode-only)
 
 
-[https://geotec.kz/](https://geotec.kz/)  
-[https://zephyr.com](https://zephyr-git-dev-orniki.vercel.app/)  
-[https://luvrok.github.io/lootbeers_typescript/](https://luvrok.github.io/lootbeers_typescript/)  
-[https://github.com/LUVROK/golden_kamuy_kz/](https://luvrok.github.io/golden_kamuy_kz/)  
+[Geotec](https://geotec.kz/)  
+[Zephyr](https://zephyr-git-dev-orniki.vercel.app/)  
+[Lootbeers](https://luvrok.github.io/lootbeers_typescript/)  
+[Golden Kamuy](https://luvrok.github.io/golden_kamuy_kz/)  
+[QuackDucks](https://luvrok.github.io/quackducks-landing/)
+[Capybara](https://luvrok.github.io/capybara-chill-club-landing/)
+[Mongo Landing](https://luvrok.github.io/mongo-landing/)
+  
+[Open AI Generation App](https://luvrok.github.io/OpenAI_generation_image_app/)
+[Wibe Stunning Fashion Studio](https://luvrok.github.io/Wibe-Stunning-Fashion-Studio/)
+[Parallax Fairy Forest](https://luvrok.github.io/parallax-fairy-forest/)
+[React Native Learn Language App](https://github.com/LUVROK/JAPAN-GO-APP)
+[Timeru](https://luvrok.github.io/Timeru/)  
 
 <h3 align="center"> My github stats </h3>
 
