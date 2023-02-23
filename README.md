@@ -25,7 +25,7 @@
 [Lootbeers](https://luvrok.github.io/lootbeers_typescript/)  
 [Golden Kamuy](https://luvrok.github.io/golden_kamuy_kz/)  
 [QuackDucks](https://luvrok.github.io/quackducks-landing/)  
-[Capybara](https://luvrok.github.io/capybara-chill-club-landing/)  
+[Capybara](https://capybara-two.vercel.app/)  
 [Mongo Landing](https://luvrok.github.io/mongo-landing/)  
   
 [Open AI Generation App](https://luvrok.github.io/OpenAI_generation_image_app/)  
