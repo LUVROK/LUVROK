@@ -22,9 +22,9 @@
 
 [Geotec](https://geotec.kz/)  
 [Zephyr](https://zephyr-git-dev-orniki.vercel.app/)  
-[Lootbeers](https://luvrok.github.io/lootbeers_typescript/)  
+[Lootpeers](https://luvrok.github.io/lootbeers_typescript/)  
 [Golden Kamuy](https://luvrok.github.io/golden_kamuy_kz/)  
-[QuackDucks](https://luvrok.github.io/quackducks-landing/)  
+[duckSite](https://luvrok.github.io/quackducks-landing/)  
 [Capybara](https://capybara-two.vercel.app/)  
 [Mongo Landing](https://luvrok.github.io/mongo-landing/)  
   
