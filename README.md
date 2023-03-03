@@ -28,6 +28,7 @@
 [Capybara](https://capybara-two.vercel.app/)  
 [Mongo Landing](https://luvrok.github.io/mongo-landing/)  
   
+[Fighting-game](https://fighting-game-eosin.vercel.app/)
 [Open AI Generation App](https://luvrok.github.io/OpenAI_generation_image_app/)  
 [Wibe Stunning Fashion Studio](https://luvrok.github.io/Wibe-Stunning-Fashion-Studio/)  
 [Parallax Fairy Forest](https://luvrok.github.io/parallax-fairy-forest/)  
