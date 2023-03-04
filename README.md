@@ -22,7 +22,7 @@
 
 [Geotec](https://geotec.kz/)  
 [Zephyr](https://zephyr-git-dev-orniki.vercel.app/)  
-[Lootpeers](loot-box-wheat.vercel.app)  
+[Lootpeers](https://loot-box-wheat.vercel.app/)  
 [Golden Kamuy](https://luvrok.github.io/golden_kamuy_kz/)  
 [duckSite](https://luvrok.github.io/quackducks-landing/)  
 [Capybara](https://capybara-two.vercel.app/)  
