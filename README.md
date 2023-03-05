@@ -30,7 +30,7 @@
   
 [Fighting-game](https://fighting-game-eosin.vercel.app/)  
 [Open AI Generation App](https://luvrok.github.io/OpenAI_generation_image_app/)  
-[Wibe Stunning Fashion Studio](https://luvrok.github.io/Wibe-Stunning-Fashion-Studio/) 
+[Wibe Stunning Fashion Studio](https://luvrok.github.io/Wibe-Stunning-Fashion-Studio/)  
 [realt time chat nextjs](https://github.com/LUVROK/nextjs-real_time-chat)   
 [dashboard app](dashboard-app-fm-1.vercel.app)  
 [Parallax Fairy Forest](https://luvrok.github.io/parallax-fairy-forest/)  
