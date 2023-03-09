@@ -25,7 +25,7 @@
 [Lootpeers](https://loot-box-wheat.vercel.app/)  
 [Golden Kamuy](https://luvrok.github.io/golden_kamuy_kz/)  
 [duckSite](https://luvrok.github.io/quackducks-landing/)  
-[Capybara](https://capybara-two.vercel.app/)  
+[Capybara](https://capybaraschill.club/)  
 [Mongo Landing](https://luvrok.github.io/mongo-landing/)  
   
 [Fighting-game](https://fighting-game-eosin.vercel.app/)  
