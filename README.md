@@ -1,20 +1,7 @@
-<h3 align="left">Hi there 👋</h3>
+![Age: 22](https://img.shields.io/badge/age-21-green?style=for-the-badge)
+![Job: Frontend Engineer](https://img.shields.io/badge/work-frontend%20engineer-orange?style=for-the-badge)  
 
-![](https://komarev.com/ghpvc/?username=luvrok&label=PROFILE+VIEWS)
+## GitHub Activities
+[![trophy](https://github-profile-trophy.vercel.app/?username=luvrok&theme=tokyonight&rank=SECRET,SSS,SS,S,AAA,AA,A,B&no-bg=true)](https://github.com/luvrok)
 
-### Connect with me:
-
-[![website](./img/globe-light.svg)](https://goldenkamuy.kz#gh-light-mode-only)
-[![website](./img/globe-dark.svg)](https://goldenkamuy.kz#gh-dark-mode-only)
-&nbsp;&nbsp;
-[![website](./img/telegram-logo-59412.svg)](https://t.me/luvrok#gh-light-mode-only)
-[![website](./img/telegram-logo-5941.svg)](https://t.me/luvrok#gh-dark-mode-only)
-&nbsp;&nbsp;
-[![website](./img/twitter-light.svg)](https://twitter.com/codestackr#gh-light-mode-only)
-[![website](./img/twitter-dark.svg)](https://twitter.com/codestackr#gh-dark-mode-only)
-&nbsp;&nbsp;
-[![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/luvrok/#gh-light-mode-only)
-[![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/luvrok#gh-dark-mode-only)
-&nbsp;&nbsp;
-[![website](./img/instagram-light.svg)](https://www.instagram.com/madokaokamoto/#gh-light-mode-only)
-[![website](./img/instagram-dark.svg)](https://www.instagram.com/madokaokamoto/#gh-dark-mode-only)
+![Metrics](/github-metrics.svg)
