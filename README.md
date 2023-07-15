@@ -3,5 +3,3 @@
 
 ## GitHub Activities
 [![trophy](https://github-profile-trophy.vercel.app/?username=luvrok&theme=tokyonight&rank=SECRET,SSS,SS,S,AAA,AA,A,B&no-bg=true)](https://github.com/luvrok)
-
-![Metrics](/github-metrics.svg)
