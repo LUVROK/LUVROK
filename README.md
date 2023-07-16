@@ -4,5 +4,3 @@
 
 ## GitHub Activities
 [![trophy](https://github-profile-trophy.vercel.app/?username=luvrok&theme=tokyonight&rank=SECRET,SSS,SS,S,AAA,AA,A,B&no-bg=true)](https://github.com/kokoro-hart)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?luvrok=anuraghazra&layout=compact)
